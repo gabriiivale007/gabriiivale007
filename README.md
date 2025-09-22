@@ -1,4 +1,4 @@
-# Hi there, I'm Gabriiivale 👋
+# Hi there, I'm Gabriele Valente 👋
 
 🎓 **Student & Developer at University of Catania (UNICT)**  
 💡 Passionate about robotics, computer science, and motors.
