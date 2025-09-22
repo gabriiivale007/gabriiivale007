@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Gabriiivale 👋
 
-<!--
-**gabriiivale007/gabriiivale007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student & Developer at University of Catania (UNICT)**  
+💡 Passionate about robotics, computer science, and motors.
 
-Here are some ideas to get you started:
+## 🏆 Achievements
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **European RoboCup Rescue Maze Champion**  
+  _Proud member of the team that conquered Europe at the RoboCup Rescue Maze._  
+  [Watch the news story here!](https://www.ilgiornale.it/video/attualit/l-iis-e-fermi-r-guttuso-giarre-conquista-l-europa-terzo-2493723.html)
+
+## 🛠️ Skills
+
+- **Languages:** Python, C, C++, C#, JavaScript, HTML, CSS
+- **Frameworks & Tools:** Unity, UI/UX Design
+
+## 🚀 Featured Projects
+
+- [Flutter-Guide](https://github.com/gabriiivale007/Flutter-Guide)
+- [Spruzzino](https://github.com/gabriiivale007/Spruzzino)
+- [Portfolio-site](https://github.com/gabriiivale007/Portfolio-site)
+- [sito-curriculum](https://github.com/gabriiivale007/sito-curriculum)
+
+## 🔗 About Me
+
+I'm a curious and motivated student passionate about building things that move and interact with the world. Whether it's code, robots, or engines, I love the challenge and creativity behind making ideas a reality.
+
+---
+
+_Thanks for visiting my GitHub profile!_
