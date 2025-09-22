@@ -17,6 +17,7 @@
 ## 🚀 Featured Projects
 
 - [[Flutter-Guide](https://github.com/gabriiivale007/Flutter-Guide)]
+- [[Flutter-Guide-web](https://gabriiivale007.github.io/Flutter-Guide/)]
 
 ## 🔗 About Me
 
