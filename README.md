@@ -16,10 +16,7 @@
 
 ## 🚀 Featured Projects
 
-- [Flutter-Guide](https://github.com/gabriiivale007/Flutter-Guide)
-- [Spruzzino](https://github.com/gabriiivale007/Spruzzino)
-- [Portfolio-site](https://github.com/gabriiivale007/Portfolio-site)
-- [sito-curriculum](https://github.com/gabriiivale007/sito-curriculum)
+- [[Flutter-Guide](https://github.com/gabriiivale007/Flutter-Guide)]
 
 ## 🔗 About Me
 
