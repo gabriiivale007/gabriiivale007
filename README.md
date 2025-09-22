@@ -11,7 +11,7 @@
 
 ## 🛠️ Skills
 
-- **Languages:** Python, C, C++, C#, JavaScript, HTML, CSS
+- **Languages:** Python, C, C++, C#, JavaScript, HTML, CSS, SQL
 - **Frameworks & Tools:** Unity, UI/UX Design
 
 ## 🚀 Featured Projects
