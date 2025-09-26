@@ -11,8 +11,8 @@
 
 ## 🛠️ Skills
 
-- **Languages:** Python, C, C++, C#, JavaScript, HTML, CSS, SQL
-- **Frameworks & Tools:** Unity, UI/UX Design
+- **Languages:** Python, C, C++, C#, JavaScript, HTML, CSS, SQL, Dart
+- **Frameworks & Tools:** Unity, UI/UX Design, Flutter
 
 ## 🚀 Featured Projects
 
