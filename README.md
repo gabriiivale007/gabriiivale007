@@ -78,6 +78,7 @@ Whether it's **code, robots, or engines**, I love the challenge and creativity b
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabriiivale007&theme=vue-dark&hide_border=false)  
 ![Stats](https://github-readme-stats.vercel.app/api?username=gabriiivale007&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)  
+<br>
 ![Trophies](https://github-profile-trophy.vercel.app/?username=gabriiivale007&theme=algolia&no-bg=true&no-frame=false&margin-w=10)
 
 </div>
