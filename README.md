@@ -52,8 +52,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://gabriiivale007.github.io/Flutter-Guide/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriiivale007&repo=Flutter-Guide-web&theme=vue-dark" alt="Flutter-Guide Web"/>
+      <a href="https://github.com/gabriiivale007/sito-personale">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriiivale007&repo=sito-personale&theme=vue-dark" alt="Personal Site"/>
       </a>
     </td>
   </tr>
