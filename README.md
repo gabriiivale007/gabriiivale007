@@ -42,25 +42,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/gabriiivale007/Flutter-Guide">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriiivale007&repo=Flutter-Guide&theme=vue-dark" alt="Flutter-Guide"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/gabriiivale007/sito-personale">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriiivale007&repo=sito-personale&theme=vue-dark" alt="Personal Site"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🔗 About Me
 
 I'm a **curious and motivated student** passionate about building things that move and interact with the world.  
