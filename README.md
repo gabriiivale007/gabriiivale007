@@ -12,7 +12,7 @@
 
 - 🥇 **European RoboCup Rescue Maze Champion**  
   Proud member of the team that conquered Europe at the RoboCup Rescue Maze.  
-  [🎥 Watch the news story here!](https://www.ilgiornale.it/video/attualit/l-iis-e-fermi-r-guttuso-giarre-conquista-l-europa-terzo-2493723.html)
+  [🎥 Watch here!](https://www.ilgiornale.it/video/attualit/l-iis-e-fermi-r-guttuso-giarre-conquista-l-europa-terzo-2493723.html)
 
 ---
 
