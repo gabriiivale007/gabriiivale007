@@ -1,6 +1,8 @@
 <!-- HEADER -->
 <h1 align="center">👋 Hi there, I'm <a href="https://github.com/gabriiivale007">Gabriele Valente</a>!</h1>
 <h3 align="center">🎓 Student & Developer at University of Catania (UNICT)</h3>
+<h3 align="center">NEOVA founder</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=1AA7EC&center=true&vCenter=true&width=500&lines=Passionate+about+Robotics+🤖;Computer+Science+💻;Motors+and+Engineering+🏎️;Always+learning+new+things!" alt="Typing SVG" />
