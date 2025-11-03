@@ -78,13 +78,20 @@ I’m a **curious and motivated student** passionate about creating projects tha
 
 ---
 
+## 💖 Support My Work
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gabriiivale007&label=Profile%20Views&color=1AA7EC&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/stars/gabriiivale007?style=flat&color=1AA7EC&label=Total%20Stars" alt="total stars" />
+  <a href="https://www.paypal.com/donate/?hosted_button_id=BLBY6J7RADBHG" target="_blank">
+    <img src="https://img.shields.io/badge/💙%20Support%20Me%20on%20PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Support Me on PayPal">
+  </a>
 </p>
 
+---
 
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gabriiivale007&label=Profile%20Views&color=1AA7EC&style=flat" alt="profile views" />
+  
+  <img src="https://img.shields.io/github/stars/gabriiivale007?style=flat&color=1AA7EC&label=Total%20Stars" alt="total stars" />
+</p>
 
 <p align="center"><i>Thanks for visiting my GitHub profile! 🚀</i></p>
