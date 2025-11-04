@@ -42,7 +42,7 @@
 ## 📊 Language Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriiivale007&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriiivale007&layout=compact&langs_count=20&theme=tokyonight" alt="Top Languages" />
 </p>
 
 
