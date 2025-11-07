@@ -58,7 +58,7 @@
 ## 🗺️ Contribution Heatmap
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabriiivale007&theme=tokyo-night&area=true&hide_border=false" alt="Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabriiivale007&theme=tokyo-night&area=true&hide_border=false&days=180" alt="Contribution Activity Graph" />
 </p>
 
 ---
