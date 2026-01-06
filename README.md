@@ -7,7 +7,7 @@
 
 ## 👤 About Me
 
-I’m a **computer science student** with a strong passion for **robotics, AI and engineering**.  
+I’m a **student** with a strong passion for **robotics, AI and engineering**.  
 I like working on projects that connect **software, hardware and real-world applications**.
 
 - 🔬 Interested in **AI, automation, robotics and XR**
