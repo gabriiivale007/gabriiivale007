@@ -1,162 +1,140 @@
-# 👋 Hi, I'm Gabriele Valente
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Gabriele+Valente;Full-Stack+Developer;Robotics+Enthusiast;Tech+Creator" alt="Typing SVG" />
+</h1>
 
-## 🤖 AI Developer | Robotics Enthusiast | Founder
+<h3 align="center">A passionate full-stack developer from Italy 🇮🇹</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriele-valente2007/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielevalente2007@icloud.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielevalente._/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.neova.it/)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gabriiivale007&label=Profile%20views&color=0e75b6&style=flat" alt="gabriiivale007" />
+  <img src="https://img.shields.io/github/followers/gabriiivale007?label=Followers&style=social" alt="GitHub followers" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=gabriiivale007&label=Views&color=0e75b6&style=flat)
+<div align="center">
+  
+  ![Snake animation](https://raw.githubusercontent.com/gabriiivale007/gabriiivale007/output/github-contribution-grid-snake-dark.svg)
+  
+</div>
 
----
+## 🚀 About Me
 
-## 🚀 Current Focus
-
-```yaml
-🔭 Working on: Internship @ Swing-it as AI Developer & intelligent automation
-🌱 Learning: 3D Modeling and Machine Learning for robotics
-🎯 Building: NEOVA - Startup for AI-driven automation
-📚 Next step: Bachelor's degree in Computer Engineering
-🤖 Mission: Advancing innovation in robotics
+```javascript
+const gabriele = {
+    location: "Naples, Italy 🍕",
+    currentFocus: ["Flutter", "Autodesk Fusion"],
+    interests: ["Motors", "Robotics", "Coding"],
+    website: "www.neova.it",
+    askMeAbout: ["Web Dev", "Robotics", "3D Design"],
+    funFact: "I turn coffee into code ☕️"
+};
 ```
 
----
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-## 💼 About Me
+### 👨‍💻 What I'm Up To
 
-I'm an **AI Developer** and **Robotics Enthusiast** with a strong passion for intelligent automation and engineering. Currently I work as an **intern at [Swing-it](https://www.swing-it.net/)**, where I develop AI-based solutions and automation.
+- 🔭 Working on exciting projects at [neova.it](https://www.neova.it)
+- 🌱 Currently learning **Flutter & Autodesk Fusion**
+- 🤖 Passionate about **motors, robotics and coding**
+- 💡 Always open to collaborate on innovative projects
+- 📫 Reach me: **gabrielevalente2007@icloud.com**
+- ⚡ Fun fact: **I debug in my dreams**
 
-I'm the **founder of NEOVA**, a startup aimed at revolutionizing the automation of repetitive tasks through AI agents and intelligent software.
+<br clear="right"/>
 
-### 🎯 My Vision
+## 🌐 Connect with Me
 
-I believe in the power of technology to simplify complex processes and solve real problems. From code to physical prototypes, I like to transform ideas into concrete reality.
+<p align="center">
+  <a href="https://linkedin.com/in/gabriele-valente2007">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/gabrielevalente._">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.youtube.com/c/gabri4tech">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="mailto:gabrielevalente2007@icloud.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
----
+## 💻 Tech Stack
 
-## 🏆 Achievements
+<details open>
+<summary><b>🎨 Frontend</b></summary>
+<br>
 
-### 🥉 European RoboCup Champion 2025
-
-**Team MezaMaze** - European RoboCup Rescue Maze Competition  
-Third place in the European rescue robotics competition
-
-[![Watch the Interview](https://img.shields.io/badge/📺_Watch_Interview-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.ilgiornale.it/video/attualit/l-iis-e-fermi-r-guttoso-giarre-conquista-l-europa-terzo-2493723.html)
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white)
-
-### 🧰 Frameworks & Tools
-
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>⚙️ Backend & Database</b></summary>
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+</details>
+
+<details open>
+<summary><b>🛠️ Tools & Technologies</b></summary>
+<br>
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
-### 🤖 Specializations
+</details>
 
-```text
-🧠 AI & Machine Learning  → Agent Creator, Automation, ML for Robotics
-🤖 Robotics                → Autonomous systems, Computer Vision, Sensors
-⚙️  Automation             → n8n Workflows, Task Automation, Process Optimization
-🎨 Design & Prototyping    → UI/UX, Figma, 3D Modeling
-```
+## 📈 Activity Graph
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabriiivale007&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+</p>
 
-## 🏅 GitHub Trophies
+## 🎯 Current Projects
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=gabriiivale007&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+<div align="center">
 
----
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🤖 Robot Control | Advanced robotics control system | Arduino, C++, Python |
+| 📱 Mobile App | Cross-platform mobile application | Flutter, Firebase |
+| 🌐 Web Platform | Full-stack web development | React, Node.js |
 
-## 📈 Contribution Graph
+</div>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gabriiivale007&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/gabriiivale007)
+## 💰 Support My Work
 
----
-
-## 💡 What I Love Building
-
-| | |
-| --- | --- |  
-| **🤖 Robotics & Automation** | **🧠 AI & Intelligent Systems** |
-| - Autonomous control systems | - AI Agents and workflow automation |
-| - Computer vision and sensors | - ML systems for robotics |
-| - Hardware-software integration | - Intelligent assistants |
-| - Functional prototypes | - Process optimization |
-| **💻 Software Development** | **🚀 Innovation & Prototyping** |
-| - Mobile applications (Flutter) | - From idea to prototype |
-| - Web applications (React) | - Rapid Proof of Concept |
-| - Automation tools | - Technology experimentation |
-| - UI/UX Design | - Cross-disciplinary projects |
+<p align="center">
+  <a href="https://www.buymeacoffee.com/gabrielevalente">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  </a>
+</p>
 
 ---
 
-## 🎯 NEOVA - My Startup
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</p>
 
-### 🚀 Intelligent Automation of the Future
-
-**NEOVA** is the startup I'm building to revolutionize how companies manage repetitive tasks.
-
-#### 💡 Vision
-
-Create AI-based automation solutions that enable people to focus on what really matters, eliminating repetitive and time-consuming activities.
-
-#### 🎯 Focus
-
-- **AI Agents**: Intelligent agents for complex automation
-- **Workflow Automation**: Business process optimization
-- **Custom Software**: Bespoke software development with integrated AI
-- **Smart Integration**: Intelligent connection between different systems
-
----
-
-## 💖 Support My Work
-
-If you believe in the power of innovation and want to support my projects:
-
-[![Support on PayPal](https://img.shields.io/badge/☕_Buy_Me_a_Coffee-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=BLBY6J7RADBHG)
-
----
-
-## 📫 Let's Connect
-
-I'm always open to new opportunities, collaborations, and tech discussions!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriele-valente2007/)
-[![Email](https://img.shields.io/baxdge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielevalente2007@icloud.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.neova.it/)
-
-### 💬 Let's build something amazing together
-
----
-
-### ⚡ Fun Fact
-
-*"The best way to predict the future is to invent it"* - And I'm building it, one robot at a time! 🤖✨
-
----
-
-![Coding](https://img.shields.io/badge/Coding-In_Progress-success?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Coffee](https://img.shields.io/badge/Coffee-Addicted-brown?style=flat-square&logo=buy-me-a-coffee&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Building_the_Future-blue?style=flat-square)
-
-### Made with ❤️ and lots of ☕ by Gabriele Valente
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/gabriiivale007">Gabriele Valente</a> - Let's build something amazing together!</i>
+</p>
