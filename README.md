@@ -19,11 +19,10 @@
 
 ```javascript
 const gabriele = {
-    location: "Naples, Italy 🍕",
+    location: "Catania, Italy",
     currentFocus: ["Flutter", "Autodesk Fusion"],
     interests: ["Motors", "Robotics", "Coding"],
-    website: "www.neova.it",
-    askMeAbout: ["Web Dev", "Robotics", "3D Design"],
+    askMeAbout: ["Web Dev", "Robotics", "3D Design", "Motorsport"],
     funFact: "I turn coffee into code ☕️"
 };
 ```
