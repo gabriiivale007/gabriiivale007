@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="166" viewBox="0 0 900 166" role="img" aria-labelledby="title desc">
+<title id="title">Gabriele Valente</title><desc id="desc">Software developer. AI and robotics. Catania, Italy.</desc>
+<text x="1" y="83" fill="#242424" font-family="Georgia, DejaVu Serif, serif" font-size="66" letter-spacing="-2">Gabriele Valente</text>
+<text x="3" y="125" fill="#777777" font-family="monospace" font-size="11" letter-spacing="2.4">SOFTWARE / AI / ROBOTICS</text>
+<text x="897" y="125" text-anchor="end" fill="#777777" font-family="monospace" font-size="11" letter-spacing="1.7">CATANIA, ITALY</text>
+<path d="M3 155 H897" fill="none" stroke="#e3e3e3"/>
+</svg>
