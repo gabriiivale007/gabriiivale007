@@ -5,7 +5,7 @@ Catania, Italy 🇮🇹
 
 I build web applications, AI tools and connected devices — from the interface to the hardware.
 
-[LinkedIn](https://www.linkedin.com/in/gabriele-valente2007/) · [Portfolio](https://www.neova.it/) · [Email](mailto:gabrielevalente2007@icloud.com) · [Instagram](https://www.instagram.com/gabrielevalente._/)
+[LinkedIn](https://www.linkedin.com/in/gabriele-valente2007/) · [Portfolio](https://gabrielevalente.me/) · [Email](mailto:gabrielevalente2007@icloud.com) · [Instagram](https://www.instagram.com/gabrielevalente._/)
 
 ## About me
 
